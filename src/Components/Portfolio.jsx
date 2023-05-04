@@ -51,7 +51,7 @@ const projectList = [
     title: "IEEE Sigfox - Azure Publications ",
     description:
       "See my published paper on IEEE based on a power outage product that utlizes; Sigfox, Circuit design, Azure IoT central, device bridge & Power automate.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://ieeexplore.ieee.org/document/9543444",
   },
   {
     title: "Microsoft Imagine Cup 2021 World finalist !",
