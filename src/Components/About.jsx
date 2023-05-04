@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,19 +24,24 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm an IoT Solutions Engineer with background in Electrical and Electronic Engineering, Experienced in IoT products development, passionate in helping transform ideas to prototypes and product, well experienced in IoT product development, Azure IoT suite, R&D EmbeddedAi, Customer Support, i do product floor planning - end-to-end Solutions from ideation, to PCB design, firmware and data pipelines protocol configuration.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "IoT Solutions",
+  "Azure IoT Suite -All",
+  "JSON data manipulations",
+  "Python, & C, C++ Programming",
+  "PCB/Circuit design",
+  "R&D",
+  "Azure AI",
+  "Working with Teams",
+  "Firmware Innovator",
+  "Prototyping IoT Devices",
+  "ARM, ATMEL/AVR - STM,Arduino, Raspberry Pi, Embedded AI Microcontrolers",
 ];
 
 /**
@@ -45,7 +50,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my IoT/Electronics/AI/Cloud experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (

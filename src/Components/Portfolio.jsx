@@ -31,28 +31,49 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Azure IoT ft Raspberry Pi & DHT 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Free 1 hour on Building end-to-end IoT Solutions Using Raspberry Pi and Azure cloud.",
+    url: "https://www.youtube.com/watch?v=RzXs5oEY_lc",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Azure IoT Hub and ESP32",
+    description: "Streaming real-time data on IoT Hub using ESP32 and DHT sensor",
+    url: "https://sstechsolutioncom.wordpress.com/iot/iot-hub-esp32-dht11/",
   },
   {
-    title: "My Resume Site",
+    title: "Automate your Home/City using Raspberry-pi and MQTT",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "How to use MQTT protocol to automate your home, get to understand the concept of subscriber-publisher, topics, client, and how MQTT works.",
+    url: "https://medium.com/@aronayub/build-iot-solutions-using-mqtt-and-raspberry-pi-5dfc5256e3cf",
+  },
+  {
+    title: "IEEE Sigfox - Azure Publications ",
+    description:
+      "See my published paper on IEEE based on a power outage product that utlizes; Sigfox, Circuit design, Azure IoT central, device bridge & Power automate.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Microsoft Imagine Cup 2021 World finalist !",
+    description: "Search for Intellivolt in the page.",
+    url: "https://techcommunity.microsoft.com/t5/student-developer-blog/meet-the-2021-imagine-cup-world-finalists/ba-p/2171758",
+  },
+  {
+    title: "My Youtube Channel",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is my personal Youtube channel, meant to help everyone anyhow access the technology",
+    url: "https://www.youtube.com/@AronAyub/videos",
+  },
+  {
+    title: "Real time data stream on Power Bi",
+    description: "Learn how to stream real time data using Stream analytics and Power Bi",
+    url: "https://youtu.be/EU9J2E8mctw",
+  },
+  {
+    title: "Human-Wildlife Conflict Solution",
+    description:
+      "See a solution/product I built on solving Elephant human Confilct along their corridors",
+    url: "https://github.com/AronAyub/Human-Wildlife-Conflict---Elephant-Chasing",
   },
 ];
 
