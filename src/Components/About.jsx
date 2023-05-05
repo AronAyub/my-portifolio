@@ -24,7 +24,7 @@ const imageAltText = "blueish image for about";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an IoT Solutions Engineer @Liquid Intelligent Technologies, with background in Electrical and Electronic Engineering. Well experienced in IoT products development. I have previously worked as an R&D design Test engineer and Circuit/PCB designer. I’m passionate in transform ideas to prototypes then to products. I’m highly passionate in making the technology accessible to everyone.";
+  "I'm an IoT Solutions Engineer @Liquid Intelligent Technologies, with background in Electrical and Electronic Engineering. Well experienced in IoT products development. I have previously worked as an R&D design Test engineer and Circuit/PCB designer. I’m passionate in transforming ideas to prototypes then to products. I’m highly passionate in making the technology accessible to everyone.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
