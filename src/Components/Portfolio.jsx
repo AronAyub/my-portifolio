@@ -32,7 +32,8 @@ const imageAltText = "my modified potifolio image";
 const projectList = [
   {
     title: "Twiga Foods Precision Agri Project",
-    description: "Project lead and solution deployment for Twiga foods corporate project, See an animation doing the installations",
+    description:
+      "Project lead and solution deployment for Twiga foods corporate project, See an animation doing the installations",
     url: "https://www.linkedin.com/posts/liquid-intelligent-technologies_liquidintelligenttechnologies-casestudy-smartagriculture-activity-7042177700622417920-vBDO?utm_source=share&utm_medium=member_desktop",
   },
   {
@@ -40,6 +41,12 @@ const projectList = [
     description:
       "Free 1 hour on Building end-to-end IoT Solutions Using Raspberry Pi and Azure cloud.",
     url: "https://www.youtube.com/watch?v=RzXs5oEY_lc",
+  },
+  {
+    title: "Cold Chain, Greenhouse, Indoor AirQuality Monitor",
+    description:
+      "The solution works on the three named use cases, the data visualization is public for viewing",
+    url: "https://app.datacake.de/pd/d6f8cbf2-dadf-4459-a510-6d40d07d3743",
   },
   {
     title: "Azure IoT Hub and ESP32",

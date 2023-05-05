@@ -21,8 +21,7 @@ import PropTypes from "prop-types";
  * freely use on your site.
  */
 import image from "../images/topsection.jpg";
-const imageAltText =
-  "Bluish image with world map, Aron Ayub to the world";
+const imageAltText = "Bluish image with world map, Aron Ayub to the world";
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
