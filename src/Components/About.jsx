@@ -24,7 +24,7 @@ const imageAltText = "blueish image for about";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an IoT Solutions Engineer with background in Electrical and Electronic Engineering, Experienced in IoT products development, passionate in helping transform ideas to prototypes and product, well experienced in IoT product development, Azure IoT suite, R&D EmbeddedAi, Customer Support, i do product floor planning - end-to-end Solutions from ideation, to PCB design, firmware and data pipelines protocol configuration.";
+  "I'm an IoT Solutions Engineer @Liquid Intelligent Technologies, with background in Electrical and Electronic Engineering. Well experienced in IoT products development. I have previously worked as an R&D design Test engineer and Circuit/PCB designer. I’m passionate in transform ideas to prototypes then to products. I’m highly passionate in making the technology accessible to everyone.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,17 +32,18 @@ const description =
  */
 const skillsList = [
   "IoT Solutions",
-  "Azure IoT Suite -All",
+  "Azure IoT Suite",
   "JSON data manipulations",
   "Python Programming",
   "PCB/Circuit design",
   "Embedded Systems",
   "R&D",
+  "Solution/Tech Lead",
   "Azure AI/EmbeddedAI",
   "Working with Teams",
   "Firmware Innovator",
-  "Prototyping IoT Devices",
-  "ARM, ATMEL/AVR - STM,Arduino, Raspberry Pi, Embedded AI Microcontrolers",
+  "Customer Support",
+  "ARM, ATMEL/AVR Microcontrollers - STM,Arduino, Raspberry Pi, Embedded AI Microcontrolers",
 ];
 
 /**

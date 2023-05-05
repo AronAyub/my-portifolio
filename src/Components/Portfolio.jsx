@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/portifolioa.jpg";
+import image from "../images/portifoliie.jpg";
 
 const imageAltText = "my modified potifolio image";
 
@@ -32,7 +32,7 @@ const imageAltText = "my modified potifolio image";
 const projectList = [
   {
     title: "Twiga Foods Precision Agri Project",
-    description: "Project lead and solution deployment for Twiga foods corporate project",
+    description: "Project lead and solution deployment for Twiga foods corporate project, See an animation doing the installations",
     url: "https://www.linkedin.com/posts/liquid-intelligent-technologies_liquidintelligenttechnologies-casestudy-smartagriculture-activity-7042177700622417920-vBDO?utm_source=share&utm_medium=member_desktop",
   },
   {
