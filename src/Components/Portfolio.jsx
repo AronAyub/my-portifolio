@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portifolioa.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "my modified potifolio image";
 
 /**
  * Project list
@@ -30,7 +30,12 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
-  {
+      {
+      title: "Twiga Foods Precision Agri Project",
+      description: "Project lead and solution deployment for Twiga foods corporate project",
+      url: "https://www.linkedin.com/posts/liquid-intelligent-technologies_liquidintelligenttechnologies-casestudy-smartagriculture-activity-7042177700622417920-vBDO?utm_source=share&utm_medium=member_desktop",
+    },
+    {
     title: "Azure IoT ft Raspberry Pi & DHT 🎉",
     description:
       "Free 1 hour on Building end-to-end IoT Solutions Using Raspberry Pi and Azure cloud.",
@@ -74,6 +79,10 @@ const projectList = [
     description:
       "See a solution/product I built on solving Elephant human Confilct along their corridors",
     url: "https://github.com/AronAyub/Human-Wildlife-Conflict---Elephant-Chasing",
+  },
+  {
+    title: "Connect",
+    description: "Click Icons in the contact section to check my Socials",
   },
 ];
 
