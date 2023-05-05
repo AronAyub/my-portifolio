@@ -27182,7 +27182,7 @@ var _aboutaJpgDefault = parcelHelpers.interopDefault(_aboutaJpg);
 const imageAltText = "blueish image for about";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm an IoT Solutions Engineer @Liquid Intelligent Technologies, with background in Electrical and Electronic Engineering. Well experienced in IoT products development. I have previously worked as an R&D design Test engineer and Circuit/PCB designer. I’m passionate in transform ideas to prototypes then to products. I’m highly passionate in making the technology accessible to everyone.";
+ */ const description = "I'm an IoT Solutions Engineer @Liquid Intelligent Technologies, with background in Electrical and Electronic Engineering. Well experienced in IoT products development. I have previously worked as an R&D design Test engineer and Circuit/PCB designer. I’m passionate in transforming ideas to prototypes then to products. I’m highly passionate in making the technology accessible to everyone.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -28643,7 +28643,7 @@ const Home = ({ name , title  })=>{
                 alt: ""
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
-                lineNumber: 29,
+                lineNumber: 28,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28658,20 +28658,20 @@ const Home = ({ name , title  })=>{
                         children: name
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
-                        lineNumber: 31,
+                        lineNumber: 30,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
                         children: title
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
-                        lineNumber: 32,
+                        lineNumber: 31,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Home.jsx",
-                lineNumber: 30,
+                lineNumber: 29,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28689,18 +28689,18 @@ const Home = ({ name , title  })=>{
                     alt: imageAltText
                 }, void 0, false, {
                     fileName: "src/Components/Home.jsx",
-                    lineNumber: 35,
+                    lineNumber: 34,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
-                lineNumber: 34,
+                lineNumber: 33,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Home.jsx",
-        lineNumber: 28,
+        lineNumber: 27,
         columnNumber: 5
     }, undefined);
 };
@@ -28776,6 +28776,11 @@ const imageAltText = "my modified potifolio image";
         url: "https://www.youtube.com/watch?v=RzXs5oEY_lc"
     },
     {
+        title: "Cold Chain, Greenhouse, Indoor AirQuality Monitor",
+        description: "The solution works on the three named use cases, the data visualization is public for viewing",
+        url: "https://app.datacake.de/pd/d6f8cbf2-dadf-4459-a510-6d40d07d3743"
+    },
+    {
         title: "Azure IoT Hub and ESP32",
         description: "Streaming real-time data on IoT Hub using ESP32 and DHT sensor",
         url: "https://sstechsolutioncom.wordpress.com/iot/iot-hub-esp32-dht11/"
@@ -28827,7 +28832,7 @@ const Portfolio = ()=>{
                 children: "Portfolio"
             }, void 0, false, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 92,
+                lineNumber: 99,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28852,12 +28857,12 @@ const Portfolio = ()=>{
                             alt: imageAltText
                         }, void 0, false, {
                             fileName: "src/Components/Portfolio.jsx",
-                            lineNumber: 95,
+                            lineNumber: 102,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 94,
+                        lineNumber: 101,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28876,12 +28881,12 @@ const Portfolio = ()=>{
                                             children: project.title
                                         }, void 0, false, {
                                             fileName: "src/Components/Portfolio.jsx",
-                                            lineNumber: 105,
+                                            lineNumber: 112,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 104,
+                                        lineNumber: 111,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -28889,30 +28894,30 @@ const Portfolio = ()=>{
                                         children: project.description
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 107,
+                                        lineNumber: 114,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, project.title, true, {
                                 fileName: "src/Components/Portfolio.jsx",
-                                lineNumber: 103,
+                                lineNumber: 110,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 101,
+                        lineNumber: 108,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 93,
+                lineNumber: 100,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Portfolio.jsx",
-        lineNumber: 91,
+        lineNumber: 98,
         columnNumber: 5
     }, undefined);
 };
